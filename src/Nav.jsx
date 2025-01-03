@@ -20,6 +20,8 @@ const Nav = () => {
         className='border border-transparent px-6 py-2 rounded-md m-3 bg-white text-green-600 font-semibold hover:bg-green-500 hover:text-white transition duration-300'>Sign Up
       </Link>
 
+      <Link to="/parent"   className='border border-transparent px-6 py-2 rounded-md m-3 bg-white text-green-600 font-semibold hover:bg-green-500 hover:text-white transition duration-300'>Drillers</Link>
+
     </div>
   );
 };
