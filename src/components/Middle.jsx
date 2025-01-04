@@ -1,5 +1,5 @@
-import React from 'react';
-import Child from './Child';
+import React from "react";
+import Child from "./Child";
 
 function MiddleComponent(parentName) {
   return (
